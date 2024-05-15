@@ -1,9 +1,4 @@
 # Prediction of health insurance cost
-Here's how you can present the description for your GitHub repository focused on predicting medical insurance costs:
-
----
-
-### Predicting Medical Insurance Costs
 
 This repository contains my statistical analysis and predictive modeling work on predicting individual medical insurance costs. The project utilizes a dataset with health-related factors such as BMI, age, smoking status, and family demographics to forecast insurance costs accurately.
 
@@ -27,6 +22,3 @@ Understanding and predicting medical insurance costs can help individuals and in
 
 This repository includes all necessary data files, Python code for the analysis, and detailed documentation on the processes and findings. It's designed to be accessible for others interested in statistical analysis, predictive modeling, or health insurance cost studies.
 
----
-
-Feel free to adjust this description to better fit your project details or highlight additional features!
