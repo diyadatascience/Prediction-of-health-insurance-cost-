@@ -25,6 +25,6 @@ This repository includes all necessary data files, Python code for the analysis,
 #### Repository Content
 - **Predicting Health Insurance Cost Report.pdf:** This comprehensive report documents the statistical analysis conducted to predict individual health insurance costs. It includes data visualizations, methodology, and insights derived from the analysis.
 
-- **insurance.csv:** The primary dataset used for the analysis. This CSV file contains the attributes like age, sex, BMI, children, smoker status, region, and charges that are crucial for predicting health insurance costs.
+- **Insurance.csv:** The primary dataset used for the analysis. This CSV file contains the attributes like age, sex, BMI, children, smoker status, region, and charges that are crucial for predicting health insurance costs.
 
 - **medical.ipynb:** A Jupyter notebook containing all the Python code used for data cleaning, exploratory data analysis, model building, and validation. This notebook is well-documented to help users understand each step of the analysis process.
